@@ -1,0 +1,8 @@
+{
+    "framework": "mocha+chai",
+    "src_files": [
+        "assets/**/*.js",
+        "tests/**/*.js"
+    ],
+    "launch_in_dev": ["PhantomJS"]
+}
